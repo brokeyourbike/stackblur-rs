@@ -7,7 +7,7 @@ StackBlur is a compromise between Gaussian blur and Box blur, but it creates muc
 
 ### Comparison to the Go implementation
 
-To run `stackblur-rs` performance comparison, run `./compare.sh`. It requires [hyperfine](https://github.com/sharkdp/hyperfine) and [go](https://golang.org) installed in your.
+To run `stackblur-rs` performance comparison, run `./compare.sh`. It requires [hyperfine](https://github.com/sharkdp/hyperfine) and [go](https://golang.org) installed in your system.
 
 
 ## License

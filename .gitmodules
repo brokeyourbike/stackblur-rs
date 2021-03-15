@@ -1,0 +1,3 @@
+[submodule "stackblur-go"]
+    path = stackblur-go
+    url = https://github.com/esimov/stackblur-go.git

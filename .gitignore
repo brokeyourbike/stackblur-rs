@@ -11,3 +11,5 @@ Cargo.lock
 
 # stackblur-go
 stackblur-go-bin
+
+.DS_Store

@@ -9,8 +9,5 @@ StackBlur is a compromise between Gaussian blur and Box blur, but it creates muc
 
 To run `stackblur-rs` performance comparison, run `./compare.sh`. It requires [hyperfine](https://github.com/sharkdp/hyperfine) and [go](https://golang.org) installed in your system.
 
-
 ## License
-Copyright © 2021 Ivan Stasiuk
-
-This software is distributed under the MIT license. See the [LICENSE](https://github.com/brokeyourbike/stackblur-rs/blob/main/LICENSE) file for the full license text.
+[Mozilla Public License v2.0](https://github.com/brokeyourbike/stackblur-rs/blob/main/LICENSE)

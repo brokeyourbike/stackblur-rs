@@ -14,4 +14,4 @@ echo
 echo
 
 echo "==> stackblur-go benchmark  <=="
-hyperfine --warmup 20 -m 50 "$BASEDIR/stackblur-go-bin -in $IMAGE -out /dev/null"
+hyperfine --warmup 20 -m 50 "$BASEDIR/stackblur-go-bin -in $IMAGE -out /dev/null -radius 20"

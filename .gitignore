@@ -13,3 +13,4 @@ Cargo.lock
 stackblur-go-bin
 
 .DS_Store
+*.js
